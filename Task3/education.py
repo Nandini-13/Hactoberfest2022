@@ -34,4 +34,5 @@
     ["Government College of Engineering nagpur", "Bachelor of Technology", "2020", "present"],
     ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],
     ["vellore institute of technology","bachelor of engineering " , "2020" ,"present"],
+    ["Delhi Public School","High School" , "2019" ,"present"]
 ]
