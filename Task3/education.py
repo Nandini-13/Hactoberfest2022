@@ -34,5 +34,9 @@
     ["Government College of Engineering nagpur", "Bachelor of Technology", "2020", "present"],
     ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],
     ["vellore institute of technology","bachelor of engineering " , "2020" ,"present"],
+<<<<<<< HEAD
     ["Delhi Public School","High School" , "2019" ,"present"]
+=======
+    ["university of bamenda", "Nahpi", "2019", "present"],
+>>>>>>> 120caf58b0becbe86cb704f1e6ccfbfbd0456f58
 ]
